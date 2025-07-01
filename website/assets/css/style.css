@@ -1,6 +1,20 @@
-body{
+body {
     background: #BDBDBD;
 }
+
+.hprimero {
+    color: rgb(59, 59, 59)
+}
+
+.hsegundo {
+    color: rgb(105, 105, 105);
+}
+
+.p-first_heading {
+    text-align: left;
+    size: 50px;
+
 .backimage{
 height: 40em;
+
 }
