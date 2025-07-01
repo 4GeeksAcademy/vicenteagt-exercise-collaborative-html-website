@@ -1,5 +1,5 @@
 body {
-    background: #faf8f8;
+    background: #ffffff;
 }
 
 .hprimero {
@@ -18,3 +18,8 @@ body {
 height: 40em;
 
 }
+
+.taglinetext{
+    top: 38px;
+}
+
